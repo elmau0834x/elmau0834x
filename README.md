@@ -1,3 +1,4 @@
+# HACKEADO POR FUCKING MONO
 # **Hola, soy un mono nomada con ganas de banana👋**
 
 <div id="header" align="center">
@@ -61,7 +62,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/710156578669723738
 )
 
-# **🎮 Gaming**
+# **🎮 Gaming** (MONO)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199344039966)
 [![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)](ELMAU0834X#LAN)
 [![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/es-MX/play/user/MauRG260821)
