@@ -1,5 +1,5 @@
 # Bienvenido a mi perfil
-# **Hola. Soy Mauricio, undev en proceso👋**
+# **Hola. Soy Mauricio, un DEV en proceso👋**
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdkbTdxdDJ2aW50eWFxM2x5eGJuMHNtb3pkbnludWxhZTl4cGdrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jAe22Ec5iICCk/giphy.gif" width="300"/>
